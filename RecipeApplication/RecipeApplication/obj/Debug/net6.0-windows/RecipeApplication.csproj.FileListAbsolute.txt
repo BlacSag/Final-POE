@@ -1,0 +1,17 @@
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\bin\Debug\net6.0-windows\RecipeApplication.exe
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\bin\Debug\net6.0-windows\RecipeApplication.deps.json
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\bin\Debug\net6.0-windows\RecipeApplication.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\bin\Debug\net6.0-windows\RecipeApplication.dll
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\bin\Debug\net6.0-windows\RecipeApplication.pdb
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.Form1.resources
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.dll
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\refint\RecipeApplication.dll
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.pdb
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\RecipeApplication.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\RecipeApplication\RecipeApplication\obj\Debug\net6.0-windows\ref\RecipeApplication.dll
